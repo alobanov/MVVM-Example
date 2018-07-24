@@ -1,0 +1,57 @@
+PODS:
+  - Differentiator (3.0.2)
+  - ObjectMapper (3.3.0)
+  - Realm (3.7.4):
+    - Realm/Headers (= 3.7.4)
+  - Realm/Headers (3.7.4)
+  - RealmSwift (3.7.4):
+    - Realm (= 3.7.4)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.0.2):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - SnapKit (4.0.0)
+  - SwiftDate (5.0.1)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - ObjectMapper (= 3.3.0)
+  - RealmSwift (= 3.7.4)
+  - RxCocoa (= 4.2.0)
+  - RxDataSources (= 3.0.2)
+  - RxSwift (= 4.2.0)
+  - SnapKit (= 4.0.0)
+  - SwiftDate
+  - SwiftyJSON (= 4.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Differentiator
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SnapKit
+    - SwiftDate
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Differentiator: a87be69eba49ec4ab460c7671143ee3a9eececfd
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  Realm: a469bb59e33f9926102ccaea4349822c53b9117e
+  RealmSwift: a45861b21c180f5cf0f122144b9759fa8dde3e9e
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxDataSources: cb7c31e652a87ebb919da45f716bbb87b3765f6b
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftDate: d596c5f65010fb56ad59d54f40ec7aeaa885d01a
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 64924862d5805a5a6fc8b5c1c435174b1ab83d81
+
+COCOAPODS: 1.5.3
